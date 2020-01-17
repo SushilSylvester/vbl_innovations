@@ -87,7 +87,7 @@ max-width: 100%;
 [2. MENU]
 -------------------------------------------------------------------*/
 /*Header*/
-.oi_head_holder { padding:40px 0; position:fixed; right:0px; background:#f5f5f5;
+.oi_head_holder { padding:40px 0; position:fixed; right:0px; background:#fff;
   left: 0;
   width: 100%;
   z-index:999;}
