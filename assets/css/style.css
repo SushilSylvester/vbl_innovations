@@ -10,6 +10,15 @@
 	background:url(../../files/landnew.jpeg);
 	
 }
+.aeo{
+	background:url(../../images/aeo.jpeg);
+}
+.sa{
+	background:url(../../images/sa.jpeg);
+}
+.iso{
+	background:url(../../images/iso.jpeg);
+}
 .lamobile{
 	background:url(../../files/about.jpeg);
 }
@@ -27,6 +36,21 @@
 }
 .White-Built{
 	background:url(../../images/White-Built-In-Bespoke-Desk.jpeg)
+}
+.sourcing{
+	background: url(../../images/sourcing.jpeg);
+}
+.quality{
+	background: url(../../images/quality.jpeg);
+}
+.new{
+	background: url(../../images/new.jpeg);
+}
+.testing{
+	background: url(../../images/test.jpeg);
+}
+.production{
+	background: url(../../images/production.jpeg);
 }
 
 
