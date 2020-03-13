@@ -103,7 +103,7 @@ jQuery.noConflict()(function($) {
             }
         });
     }
-	
+
     if ($('body').width() > 640) {
         $(window).load(function() {
             if (($("body").height() - $(window).height()) > 300) {
@@ -150,35 +150,31 @@ jQuery.noConflict()(function($) {
     $(".oi_xs_menu", ".io_xs").on("click", function(e) {
         $('.oi_header_menu').toggleClass('oi_v_menu');
     });
-	
-	$(document).ready(function ()
-			{ // after loading the DOM
-				$("#ajax-contact-form").submit(function ()
-				{
-					// this points to our form
-					var str = $(this).serialize(); // Serialize the data for the POST-request
-					var result = '';
-					$.ajax(
-					{
 
-						type: "POST",
-						url: 'contact.php',
-						data: str,
-						success: function (msg)
-						{	
-								if (msg == 'OK'){
-									result = '<div class="alert alert-info">Message was sent to website administrator, thank you!</div>';
-									$("#fields").hide();
-								}else{
-									result = msg;
-								}
-								$("#note").html(result);
-						
-						}
-					});
-					return false;
-				});
-			});
+    $(document).ready(function() { // after loading the DOM
+        $("#ajax-contact-form").submit(function() {
+            // this points to our form
+            var str = $(this).serialize(); // Serialize the data for the POST-request
+            var result = '';
+            $.ajax({
+
+                type: "POST",
+                url: 'contact.php',
+                data: str,
+                success: function(msg) {
+                    if (msg == 'OK') {
+                        result = '<div class="alert alert-info">Message was sent to website administrator, thank you!</div>';
+                        $("#fields").hide();
+                    } else {
+                        result = msg;
+                    }
+                    $("#note").html(result);
+
+                }
+            });
+            return false;
+        });
+    });
 
 
 });

@@ -1,124 +1,163 @@
-.suez-environnement{
-	background:url(../../files/usnew.jpeg);
-	 
-    
+.suez-environnement {
+    background: url(../../files/usnew.jpeg);
 }
-.good-co-coffee{
-	background:url(../../files/other.jpeg);
+
+.good-co-coffee {
+    background: url(../../files/other.jpeg);
 }
+
 .flight-to-the-flats {
-	background:url(../../files/landnew.jpeg);
-	
+    background: url(../../files/landnew.jpeg);
 }
-.aeo{
-	background:url(../../images/aeo.jpeg);
+
+.aeo {
+    background: url(../../images/aeo.jpeg);
 }
-.sa{
-	background:url(../../images/sa.jpeg);
+
+.sa {
+    background: url(../../images/sa.jpeg);
 }
-.iso{
-	background:url(../../images/iso.jpeg);
+
+.iso {
+    background:url(../../images/iso.jpeg);  
 }
-.lamobile{
-	background:url(../../files/about.jpeg);
+
+.lamobile {
+    background: url(../../files/about.jpeg);
 }
+
 .sr-pao-de-queijo {
-	background:url(../../files/rainbow.jpeg);
+    background: url(../../files/rainbow.jpeg);
 }
-.washboard{
-	background:url(../../files/wash.jpeg);
+
+.washboard {
+    background: url(../../files/wash.jpeg);
 }
+
 .anker {
-	background:url(../../files/);
+    background: url(../../files/);
 }
+
 .ceron {
-	background:url(../../files/vbl1.jpeg);
-}
-.White-Built{
-	background:url(../../images/White-Built-In-Bespoke-Desk.jpeg)
-}
-.sourcing{
-	background: url(../../images/sourcing.jpeg);
-}
-.quality{
-	background: url(../../images/quality.jpeg);
-}
-.new{
-	background: url(../../images/new.jpeg);
-}
-.testing{
-	background: url(../../images/test.jpeg);
-}
-.production{
-	background: url(../../images/production.jpeg);
+    background: url(../../files/vbl1.jpeg);
 }
 
-
-.m0{
-	margin: 0px;	
+.White-Built {
+    background: url(../../images/White-Built-In-Bespoke-Desk.jpeg)
 }
+
+.sourcing {
+    background: url(../../images/sourcing.jpeg);
+}
+
+.quality {
+    background: url(../../images/quality.jpeg);
+}
+
+.new {
+    background: url(../../images/new.jpeg);
+}
+
+.testing {
+    background: url(../../images/test.jpeg);
+}
+
+.production {
+    background: url(../../images/production.jpeg);
+}
+
+.m0 {
+    margin: 0px;
+}
+
 .mg30 {
-margin-bottom:30px !important;
+    margin-bottom: 30px !important;
 }
-.nodisplay{display:none}
-.uppercase{text-transform: uppercase;}
+
+.nodisplay {
+    display: none
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
 .bg_fff {
-background-color:#fff!important;
+    background-color: #fff !important;
 }
+
 .bg_788e3f {
-background-color:#788e3f !important;
+    background-color: #788e3f !important;
 }
-.bg_403224{
-background-color:#403224 !important		
+
+.bg_403224 {
+    background-color: #403224 !important
 }
-.bg_270400{
-background-color:#270400 !important			
+
+.bg_270400 {
+    background-color: #270400 !important
 }
-.bg_77cfd0{
-background-color:#77cfd0 !important	
+
+.bg_77cfd0 {
+    background-color: #77cfd0 !important
 }
-.bg_000{
-background-color:#000 !important
+
+.bg_000 {
+    background-color: #000 !important
 }
-.bg_e8e8e8{
-background-color: #e8e8e8 !important;
+
+.bg_e8e8e8 {
+    background-color: #e8e8e8 !important;
 }
-.bg_cdb48c{
-background-color: #cdb48c !important;
+
+.bg_cdb48c {
+    background-color: #cdb48c !important;
 }
-.bg_ebc483{
-background-color:#ebc483 !important	
+
+.bg_ebc483 {
+    background-color: #ebc483 !important
 }
-.bg_cdbf90{
-background-color:#cdbf90 !important
+
+.bg_cdbf90 {
+    background-color: #cdbf90 !important
 }
-.bg_ff6633{
-background-color:#ff6633 !important;
+
+.bg_ff6633 {
+    background-color: #ff6633 !important;
 }
-.bg_fff0bb{
-background-color:#fff0bb !important
+
+.bg_fff0bb {
+    background-color: #fff0bb !important
 }
+
 .center {
-text-align:center !important;
+    text-align: center !important;
 }
-.text_fff{
-color:#fff;
+
+.text_fff {
+    color: #fff;
 }
-.text_000{
-color:#000;
+
+.text_000 {
+    color: #000;
 }
-.text_403224{
-color:#403224;
+
+.text_403224 {
+    color: #403224;
 }
-.text_270400{
-color:#270400;	
+
+.text_270400 {
+    color: #270400;
 }
+
 .right {
-text-align:right;
+    text-align: right;
 }
+
 .justify {
-text-align: justify;
+    text-align: justify;
 }
+
 .text_block {
-margin-bottom:35px;
+    margin-bottom: 35px;
 }
