@@ -129,6 +129,8 @@ img {
     -o-user-select: none;
     user-select: none;
     max-width: 100%;
+    margin-right:auto;
+    margin-left:auto;
 }
 
 .img-responsive img {
