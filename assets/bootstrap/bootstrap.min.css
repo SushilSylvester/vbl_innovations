@@ -1812,7 +1812,8 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+
 }
 
 .col-xs-1,
@@ -2229,7 +2230,7 @@ pre code {
         width: 83.33333333%
     }
     .col-md-9 {
-        width: 75%
+        width: 90%
     }
     .col-md-8 {
         width: 66.66666667%
@@ -2247,7 +2248,7 @@ pre code {
         width: 33.33333333%
     }
     .col-md-3 {
-        width: 25%
+        width: 10%
     }
     .col-md-2 {
         width: 16.66666667%

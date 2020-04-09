@@ -1,10 +1,34 @@
-.suez-environnement {
-    background: url(../../files/usnew.jpeg);
+.leather{
+        background: url(../../files/leather.jpeg);
+}
+.leather_contact{
+     background: url(../../files/leather-contact.jpeg);
 }
 
-.good-co-coffee {
-    background: url(../../files/other.jpeg);
+
+.speciality-straps{
+    background: url(../../files/speciality.jpeg);
 }
+.spectality-contact{
+    background: url(../../files/speciality_contact.jpeg);
+}
+
+
+.color{
+    background: url(../../files/color.jpeg);
+}
+.color_contact{
+    background: url(../../files/color_contact.jpeg);
+}
+
+
+.quick{
+    background: url(../../files/quick.jpg);
+}
+.quick_contact{
+    background: url(../../files/quick_contact.jpg);
+}
+
 
 .flight-to-the-flats {
     background: url(../../files/landnew.jpeg);
@@ -24,10 +48,6 @@
 
 .lamobile {
     background: url(../../files/about.jpeg);
-}
-
-.sr-pao-de-queijo {
-    background: url(../../files/rainbow.jpeg);
 }
 
 .washboard {

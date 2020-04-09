@@ -540,7 +540,7 @@ oi_test:hover img {
 /*Filters*/
 
 .oi_port_filter_holder {
-    padding: 30px;
+    padding: 50px;
     background: #fff;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -2031,7 +2031,7 @@ big {
 }
 
 .oi_x2 {
-    height: 500px;
+    height: 400px;
 }
 
 .oi_x1 {
