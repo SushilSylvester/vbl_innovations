@@ -1683,12 +1683,15 @@ blockquote {
     .oi_vc_text {
         padding: 0 20px !important;
     }
+   
     .oi_x2 {
-        height: 400px !important;
+        height: 500px !important;
     }
     .oi_x1 {
         height: 200px !important;
     }
+
+    
     .oi_vc_text .oi_legend {
         font-size: 30px !important;
         line-height: 36px !important;
@@ -2031,7 +2034,7 @@ big {
 }
 
 .oi_x2 {
-    height: 400px;
+    height: 500px;
 }
 
 .oi_x1 {

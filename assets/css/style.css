@@ -12,7 +12,10 @@
 .spectality-contact{
     background: url(../../files/speciality_contact.jpeg);
 }
+.suez-environnement{
+        background: url(../../files/suez.jpg);
 
+}
 
 .color{
     background: url(../../files/color.jpeg);
@@ -21,6 +24,13 @@
     background: url(../../files/color_contact.jpeg);
 }
 
+.good-co-coffee{
+   background: url(../../files/other.jpeg); 
+}
+
+.sr-pao-de-queijo{
+   background: url(../../files/rainbow.jpeg);  
+}
 
 .quick{
     background: url(../../files/quick.jpg);
