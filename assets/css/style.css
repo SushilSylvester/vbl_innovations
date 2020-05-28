@@ -3,8 +3,20 @@
 }
 .leather_contact{
      background: url(../../files/leather-contact.jpeg);
+    
 }
 
+.infy-strap1{
+    background: url(../../files/Full-Remborde-strap.jpeg);
+}
+
+.infy-strap2{
+   background: url(../../files/Semi-Remborde-strap.jpeg); 
+}
+
+.infy-strap3{
+    background: url(../../files/Cut-edge-strap.jpeg);
+}
 
 .speciality-straps{
     background: url(../../files/speciality.jpeg);
@@ -161,7 +173,7 @@
 }
 
 .bg_fff0bb {
-    background-color: #fff0bb !important
+    background-color: #ebc483 !important
 }
 
 .center {

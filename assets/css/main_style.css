@@ -34,7 +34,16 @@ Primary use:	Portfolio site
 /*------------------------------------------------------------------
 [1. Typograpgy]
 -------------------------------------------------------------------*/
+.text-heading {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
 
+.text1 {
+    font-family: Roboto;
+    font-size: 50px;
+    color: #222;
+}
 body {
     letter-spacing: 1px;
 }
