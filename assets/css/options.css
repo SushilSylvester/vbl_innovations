@@ -23,6 +23,14 @@ body {
     color: #222;
 }
 
+.oi_sub_legend1{
+   font-family: Roboto;
+    font-style: 500;
+    font-size: 15px;
+    line-height: 23px;
+    color: #222; 
+}
+
 h1 {
     font-family: Roboto;
     font-style: 700;
