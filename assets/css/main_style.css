@@ -43,7 +43,10 @@ Primary use:	Portfolio site
     font-family: Roboto;
     font-size: 50px;
     color: #222;
+    line-height: 50px;
 }
+
+
 body {
     letter-spacing: 1px;
 }
