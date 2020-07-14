@@ -34,6 +34,16 @@ Primary use:	Portfolio site
 /*------------------------------------------------------------------
 [1. Typograpgy]
 -------------------------------------------------------------------*/
+.footer_t{
+    margin-left: 50px !important;
+    padding-left: 0px !important;
+}
+.terms{
+    margin-top: 180px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 .text-heading {
     padding-top: 80px;
     padding-bottom: 50px;
